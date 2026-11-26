@@ -10,7 +10,7 @@ YouTube, TikTok, Instagram ve Twitter'dan video indirebileceğin masaüstü uygu
 ![Flet](https://img.shields.io/badge/Flet-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-![Kurulum](https://img.shields.io/badge/kurulum-gerekmez_(.exe)-2E7D32?style=flat-square)
+![Kurulum](https://img.shields.io/badge/kurulum-gerekmez_%28.exe%29-2E7D32?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
 
 <br>
