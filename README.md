@@ -61,6 +61,6 @@ Uygulama tek bir `.exe` dosyası olarak paketlendi; Python ya da başka bir bile
 
 Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
 
-**[tetik.dev](https://tetik.dev/projects.html)** · Muhammed Ali Tetik
+**[tetik.dev](https://tetik.dev)** · Muhammed Ali Tetik
 
 </div>
